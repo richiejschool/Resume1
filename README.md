@@ -1,1 +1,1 @@
-# protest-assignment
+# Icon Project
